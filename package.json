@@ -1,0 +1,16 @@
+{
+  "name": "calc-specs",
+  "version": "0.1.0",
+  "description": "calc acceptance test",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "request": "^2.88.0"
+  }
+}
